@@ -1,0 +1,12 @@
+step_learn
+
+-window 
+-game class 
+-game loop 
+-update &renderin 
+-create shapes 
+-move shapes 
+-positions 
+-getting mouse positions and inputs 
+-getting keyboard inputs 
+-remoning shapes
